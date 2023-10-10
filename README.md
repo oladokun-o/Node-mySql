@@ -1,4 +1,5 @@
 # Node.js MySQL Backend Application Template
+**Author:** [Oladokun](https://github.com/oladokun-o)
 
 This is a backend application template built using Node.js and MySQL, designed to help you kickstart your development projects. It includes several essential components for building robust and scalable web applications. You can use this template as a foundation for a wide range of applications, such as RESTful APIs, web services, or backend systems.
 
